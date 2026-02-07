@@ -1,0 +1,14 @@
+C:\university\C#\hw 1.1-1.5\1.1\TerritoryApp\bin\Debug\net10.0\TerritoryApp.exe
+C:\university\C#\hw 1.1-1.5\1.1\TerritoryApp\bin\Debug\net10.0\TerritoryApp.deps.json
+C:\university\C#\hw 1.1-1.5\1.1\TerritoryApp\bin\Debug\net10.0\TerritoryApp.runtimeconfig.json
+C:\university\C#\hw 1.1-1.5\1.1\TerritoryApp\bin\Debug\net10.0\TerritoryApp.dll
+C:\university\C#\hw 1.1-1.5\1.1\TerritoryApp\bin\Debug\net10.0\TerritoryApp.pdb
+C:\university\C#\hw 1.1-1.5\1.1\TerritoryApp\obj\Debug\net10.0\TerritoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\C#\hw 1.1-1.5\1.1\TerritoryApp\obj\Debug\net10.0\TerritoryApp.AssemblyInfoInputs.cache
+C:\university\C#\hw 1.1-1.5\1.1\TerritoryApp\obj\Debug\net10.0\TerritoryApp.AssemblyInfo.cs
+C:\university\C#\hw 1.1-1.5\1.1\TerritoryApp\obj\Debug\net10.0\TerritoryApp.csproj.CoreCompileInputs.cache
+C:\university\C#\hw 1.1-1.5\1.1\TerritoryApp\obj\Debug\net10.0\TerritoryApp.dll
+C:\university\C#\hw 1.1-1.5\1.1\TerritoryApp\obj\Debug\net10.0\refint\TerritoryApp.dll
+C:\university\C#\hw 1.1-1.5\1.1\TerritoryApp\obj\Debug\net10.0\TerritoryApp.pdb
+C:\university\C#\hw 1.1-1.5\1.1\TerritoryApp\obj\Debug\net10.0\TerritoryApp.genruntimeconfig.cache
+C:\university\C#\hw 1.1-1.5\1.1\TerritoryApp\obj\Debug\net10.0\ref\TerritoryApp.dll

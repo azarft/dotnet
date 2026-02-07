@@ -1,0 +1,14 @@
+C:\university\C#\hw 1.1-1.5\1.5\AreaWhileApp\bin\Debug\net10.0\AreaWhileApp.exe
+C:\university\C#\hw 1.1-1.5\1.5\AreaWhileApp\bin\Debug\net10.0\AreaWhileApp.deps.json
+C:\university\C#\hw 1.1-1.5\1.5\AreaWhileApp\bin\Debug\net10.0\AreaWhileApp.runtimeconfig.json
+C:\university\C#\hw 1.1-1.5\1.5\AreaWhileApp\bin\Debug\net10.0\AreaWhileApp.dll
+C:\university\C#\hw 1.1-1.5\1.5\AreaWhileApp\bin\Debug\net10.0\AreaWhileApp.pdb
+C:\university\C#\hw 1.1-1.5\1.5\AreaWhileApp\obj\Debug\net10.0\AreaWhileApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\C#\hw 1.1-1.5\1.5\AreaWhileApp\obj\Debug\net10.0\AreaWhileApp.AssemblyInfoInputs.cache
+C:\university\C#\hw 1.1-1.5\1.5\AreaWhileApp\obj\Debug\net10.0\AreaWhileApp.AssemblyInfo.cs
+C:\university\C#\hw 1.1-1.5\1.5\AreaWhileApp\obj\Debug\net10.0\AreaWhileApp.csproj.CoreCompileInputs.cache
+C:\university\C#\hw 1.1-1.5\1.5\AreaWhileApp\obj\Debug\net10.0\AreaWhileApp.dll
+C:\university\C#\hw 1.1-1.5\1.5\AreaWhileApp\obj\Debug\net10.0\refint\AreaWhileApp.dll
+C:\university\C#\hw 1.1-1.5\1.5\AreaWhileApp\obj\Debug\net10.0\AreaWhileApp.pdb
+C:\university\C#\hw 1.1-1.5\1.5\AreaWhileApp\obj\Debug\net10.0\AreaWhileApp.genruntimeconfig.cache
+C:\university\C#\hw 1.1-1.5\1.5\AreaWhileApp\obj\Debug\net10.0\ref\AreaWhileApp.dll

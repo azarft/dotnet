@@ -1,0 +1,14 @@
+C:\university\C#\hw 1.1-1.5\1.4\DensityApp\bin\Debug\net10.0\DensityApp.exe
+C:\university\C#\hw 1.1-1.5\1.4\DensityApp\bin\Debug\net10.0\DensityApp.deps.json
+C:\university\C#\hw 1.1-1.5\1.4\DensityApp\bin\Debug\net10.0\DensityApp.runtimeconfig.json
+C:\university\C#\hw 1.1-1.5\1.4\DensityApp\bin\Debug\net10.0\DensityApp.dll
+C:\university\C#\hw 1.1-1.5\1.4\DensityApp\bin\Debug\net10.0\DensityApp.pdb
+C:\university\C#\hw 1.1-1.5\1.4\DensityApp\obj\Debug\net10.0\DensityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\C#\hw 1.1-1.5\1.4\DensityApp\obj\Debug\net10.0\DensityApp.AssemblyInfoInputs.cache
+C:\university\C#\hw 1.1-1.5\1.4\DensityApp\obj\Debug\net10.0\DensityApp.AssemblyInfo.cs
+C:\university\C#\hw 1.1-1.5\1.4\DensityApp\obj\Debug\net10.0\DensityApp.csproj.CoreCompileInputs.cache
+C:\university\C#\hw 1.1-1.5\1.4\DensityApp\obj\Debug\net10.0\DensityApp.dll
+C:\university\C#\hw 1.1-1.5\1.4\DensityApp\obj\Debug\net10.0\refint\DensityApp.dll
+C:\university\C#\hw 1.1-1.5\1.4\DensityApp\obj\Debug\net10.0\DensityApp.pdb
+C:\university\C#\hw 1.1-1.5\1.4\DensityApp\obj\Debug\net10.0\DensityApp.genruntimeconfig.cache
+C:\university\C#\hw 1.1-1.5\1.4\DensityApp\obj\Debug\net10.0\ref\DensityApp.dll

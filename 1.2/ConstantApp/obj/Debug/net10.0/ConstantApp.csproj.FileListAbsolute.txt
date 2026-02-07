@@ -1,0 +1,14 @@
+C:\university\C#\hw 1.1-1.5\1.2\ConstantApp\obj\Debug\net10.0\ConstantApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\C#\hw 1.1-1.5\1.2\ConstantApp\obj\Debug\net10.0\ConstantApp.AssemblyInfoInputs.cache
+C:\university\C#\hw 1.1-1.5\1.2\ConstantApp\obj\Debug\net10.0\ConstantApp.AssemblyInfo.cs
+C:\university\C#\hw 1.1-1.5\1.2\ConstantApp\obj\Debug\net10.0\ConstantApp.csproj.CoreCompileInputs.cache
+C:\university\C#\hw 1.1-1.5\1.2\ConstantApp\bin\Debug\net10.0\ConstantApp.exe
+C:\university\C#\hw 1.1-1.5\1.2\ConstantApp\bin\Debug\net10.0\ConstantApp.deps.json
+C:\university\C#\hw 1.1-1.5\1.2\ConstantApp\bin\Debug\net10.0\ConstantApp.runtimeconfig.json
+C:\university\C#\hw 1.1-1.5\1.2\ConstantApp\bin\Debug\net10.0\ConstantApp.dll
+C:\university\C#\hw 1.1-1.5\1.2\ConstantApp\bin\Debug\net10.0\ConstantApp.pdb
+C:\university\C#\hw 1.1-1.5\1.2\ConstantApp\obj\Debug\net10.0\ConstantApp.dll
+C:\university\C#\hw 1.1-1.5\1.2\ConstantApp\obj\Debug\net10.0\refint\ConstantApp.dll
+C:\university\C#\hw 1.1-1.5\1.2\ConstantApp\obj\Debug\net10.0\ConstantApp.pdb
+C:\university\C#\hw 1.1-1.5\1.2\ConstantApp\obj\Debug\net10.0\ConstantApp.genruntimeconfig.cache
+C:\university\C#\hw 1.1-1.5\1.2\ConstantApp\obj\Debug\net10.0\ref\ConstantApp.dll
