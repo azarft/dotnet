@@ -1,0 +1,15 @@
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\bin\Debug\net10.0\PopulationApp.exe
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\bin\Debug\net10.0\PopulationApp.deps.json
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\bin\Debug\net10.0\PopulationApp.runtimeconfig.json
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\bin\Debug\net10.0\PopulationApp.dll
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\bin\Debug\net10.0\PopulationApp.pdb
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\obj\Debug\net10.0\PopulationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\obj\Debug\net10.0\PopulationApp.AssemblyInfoInputs.cache
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\obj\Debug\net10.0\PopulationApp.AssemblyInfo.cs
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\obj\Debug\net10.0\PopulationApp.csproj.CoreCompileInputs.cache
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\obj\Debug\net10.0\PopulationApp.sourcelink.json
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\obj\Debug\net10.0\PopulationApp.dll
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\obj\Debug\net10.0\refint\PopulationApp.dll
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\obj\Debug\net10.0\PopulationApp.pdb
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\obj\Debug\net10.0\PopulationApp.genruntimeconfig.cache
+C:\university\C#\hw 1.1-1.5\2.1\PopulationApp\obj\Debug\net10.0\ref\PopulationApp.dll
