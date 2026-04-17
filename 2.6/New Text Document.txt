@@ -1,0 +1,4 @@
+Yes. A class can implement multiple interfaces at the same time.
+
+Abstract class can have fields, constructors, and implemented methods.
+Interface only defines method signatures (contract).

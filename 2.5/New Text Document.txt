@@ -1,0 +1,3 @@
+No. Private fields of a parent class cannot be accessed directly in a child class.
+
+A sealed class is a class that cannot be inherited.

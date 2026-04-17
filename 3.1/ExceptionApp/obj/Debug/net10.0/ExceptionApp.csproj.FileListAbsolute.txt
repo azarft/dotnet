@@ -1,0 +1,15 @@
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\bin\Debug\net10.0\ExceptionApp.exe
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\bin\Debug\net10.0\ExceptionApp.deps.json
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\bin\Debug\net10.0\ExceptionApp.runtimeconfig.json
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\bin\Debug\net10.0\ExceptionApp.dll
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\bin\Debug\net10.0\ExceptionApp.pdb
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\obj\Debug\net10.0\ExceptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\obj\Debug\net10.0\ExceptionApp.AssemblyInfoInputs.cache
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\obj\Debug\net10.0\ExceptionApp.AssemblyInfo.cs
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\obj\Debug\net10.0\ExceptionApp.csproj.CoreCompileInputs.cache
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\obj\Debug\net10.0\ExceptionApp.sourcelink.json
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\obj\Debug\net10.0\ExceptionApp.dll
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\obj\Debug\net10.0\refint\ExceptionApp.dll
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\obj\Debug\net10.0\ExceptionApp.pdb
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\obj\Debug\net10.0\ExceptionApp.genruntimeconfig.cache
+C:\university\C#\hw 1.1-1.5\3.1\ExceptionApp\obj\Debug\net10.0\ref\ExceptionApp.dll

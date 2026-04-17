@@ -1,0 +1,5 @@
+What is the throw statement used for?
+throw is used to manually create and send an exception. It stops the normal program flow and passes the error to a catch block.
+
+Should I catch the basic Exception type in all catch blocks?
+No. It’s better to catch specific exceptions (like FileNotFoundException). Catching only Exception can hide important errors and make debugging harder.

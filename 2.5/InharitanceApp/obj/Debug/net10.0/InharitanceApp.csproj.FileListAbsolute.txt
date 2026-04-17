@@ -1,0 +1,15 @@
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\bin\Debug\net10.0\InharitanceApp.exe
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\bin\Debug\net10.0\InharitanceApp.deps.json
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\bin\Debug\net10.0\InharitanceApp.runtimeconfig.json
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\bin\Debug\net10.0\InharitanceApp.dll
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\bin\Debug\net10.0\InharitanceApp.pdb
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\obj\Debug\net10.0\InharitanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\obj\Debug\net10.0\InharitanceApp.AssemblyInfoInputs.cache
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\obj\Debug\net10.0\InharitanceApp.AssemblyInfo.cs
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\obj\Debug\net10.0\InharitanceApp.csproj.CoreCompileInputs.cache
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\obj\Debug\net10.0\InharitanceApp.sourcelink.json
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\obj\Debug\net10.0\InharitanceApp.dll
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\obj\Debug\net10.0\refint\InharitanceApp.dll
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\obj\Debug\net10.0\InharitanceApp.pdb
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\obj\Debug\net10.0\InharitanceApp.genruntimeconfig.cache
+C:\university\C#\hw 1.1-1.5\2.5\InharitanceApp\obj\Debug\net10.0\ref\InharitanceApp.dll

@@ -1,0 +1,7 @@
+How does List<T> differ from ArrayList?
+List<T> is generic and type-safe (stores only one type).
+ArrayList stores objects of any type and requires casting. List<T> is safer and faster.
+
+When is a dictionary more effective than a list?
+A dictionary is better when you need fast search by key.
+It gives quick access (by key), while a list requires looping through elements.

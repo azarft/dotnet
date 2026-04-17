@@ -1,0 +1,4 @@
+To protect data. Validation must be inside the class, not in Main(). This keeps the object safe and controlled.
+
+Auto-properties are properties without manual backing fields (public int Age { get; set; }).
+They are convenient when no extra validation logic is needed.

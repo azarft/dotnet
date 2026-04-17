@@ -1,0 +1,5 @@
+What is an anonymous method?
+An anonymous method is a method without a name. It is usually written inline using a lambda expression and used for short, simple logic.
+
+How is the += operator used in the context of events?
+The += operator is used to subscribe a method to an event. It attaches an event handler so the method runs when the event is triggered.

@@ -1,0 +1,15 @@
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\bin\Debug\net10.0\EncapsulationApp.exe
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\bin\Debug\net10.0\EncapsulationApp.deps.json
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\bin\Debug\net10.0\EncapsulationApp.runtimeconfig.json
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\bin\Debug\net10.0\EncapsulationApp.dll
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\bin\Debug\net10.0\EncapsulationApp.pdb
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\obj\Debug\net10.0\EncapsulationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\obj\Debug\net10.0\EncapsulationApp.AssemblyInfoInputs.cache
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\obj\Debug\net10.0\EncapsulationApp.AssemblyInfo.cs
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\obj\Debug\net10.0\EncapsulationApp.csproj.CoreCompileInputs.cache
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\obj\Debug\net10.0\EncapsulationApp.sourcelink.json
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\obj\Debug\net10.0\EncapsulationApp.dll
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\obj\Debug\net10.0\refint\EncapsulationApp.dll
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\obj\Debug\net10.0\EncapsulationApp.pdb
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\obj\Debug\net10.0\EncapsulationApp.genruntimeconfig.cache
+C:\university\C#\hw 1.1-1.5\2.4\EncapsulationApp\obj\Debug\net10.0\ref\EncapsulationApp.dll
